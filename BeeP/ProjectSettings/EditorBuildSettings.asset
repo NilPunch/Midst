@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 7bb4780a064ebb84f843b7fb1b7ad9f6
+  - enabled: 1
+    path: Assets/Scenes/Level_Basic_Movement_Introduction.unity
+    guid: dd43c15bd2214db42b274c6cb45432c8
+  - enabled: 1
+    path: Assets/Scenes/Level_Improved_Movement_Introduction.unity
+    guid: 72ec711602337a54b969a05df42b7723
+  - enabled: 1
+    path: Assets/Scenes/Level_Button&Door_Introduction.unity
+    guid: 5657136fd73207b44aefc04050fddf52
+  - enabled: 1
+    path: Assets/Scenes/Level_Restart_Introduction.unity
+    guid: 541dad4117d45ba45a45f613ed3d1f16
+  - enabled: 1
+    path: Assets/Scenes/Level_1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level_Box_Introduction.unity
+    guid: b9b2a49baf3690f4395c796d25aee261
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: 466dd730d6384d9409621f43f4887596
+  - enabled: 1
+    path: Assets/Scenes/Level_4.unity
+    guid: 41d2f02af387b3348ac68dcaa4e887c3
+  - enabled: 1
+    path: Assets/Scenes/Level_5.unity
+    guid: 343a9c74836d16e42ae930be6b5f3434
+  - enabled: 1
+    path: Assets/Scenes/Level_6.unity
+    guid: 1f035982eddfd9e428a67d2a60b4b4f7
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Level_7.unity
+    guid: ec11447f5d878a646a95fc891c4c07aa
+  - enabled: 1
+    path: Assets/Scenes/Level_8.unity
+    guid: 5b9e53cd564f1164882603e662c68161
+  - enabled: 1
+    path: Assets/Scenes/Level_9.unity
+    guid: e99c2e50bf0588644a4e9f473ea399f1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Level_10.unity
+    guid: ae9c992920629e14e8713984817a5a3d
+  - enabled: 1
+    path: Assets/Scenes/Level_11.unity
+    guid: 1eaab9d2d81945a488fa91873e3b3e98
+  - enabled: 1
+    path: Assets/Scenes/Level_Sandbox.unity
+    guid: 24ed3eae803c57742a9ad7e7db0f32cf
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 76386084950dfb944a2bf405512d764c
+  m_configObjects: {}
