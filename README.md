@@ -12,4 +12,4 @@
 * Невозможность сжатия текстур (используются NPOT текстуры)
 * Наличие выводов Debug.Log без оборачивания в #if UNITY_EDITOR #endif
 * Использование [RequireComponent] и GetComponent<> вместо сериализации
-* Использование FindObjectsOfType<>
+* Неуместное использование FindObjectsOfType<>
